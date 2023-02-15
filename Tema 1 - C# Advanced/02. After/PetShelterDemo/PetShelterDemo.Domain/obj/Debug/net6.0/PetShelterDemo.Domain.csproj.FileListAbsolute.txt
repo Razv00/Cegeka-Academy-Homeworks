@@ -1,0 +1,15 @@
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.Domain.deps.json
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.Domain.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.Domain.pdb
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.DAL.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.DAL.pdb
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.csproj.AssemblyReference.cache
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.AssemblyInfoInputs.cache
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.AssemblyInfo.cs
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.csproj.CopyComplete
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\refint\PetShelterDemo.Domain.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.pdb
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\ref\PetShelterDemo.Domain.dll

@@ -1,0 +1,12 @@
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\bin\Debug\net6.0\PetShelterDemo.DAL.deps.json
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\bin\Debug\net6.0\PetShelterDemo.DAL.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\bin\Debug\net6.0\PetShelterDemo.DAL.pdb
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.csproj.AssemblyReference.cache
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.AssemblyInfoInputs.cache
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.AssemblyInfo.cs
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\refint\PetShelterDemo.DAL.dll
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\PetShelterDemo.DAL.pdb
+D:\FACULTATE\Cegeka Academy\LearningSessions\01. C# Advanced\02. After\PetShelterDemo\PetShelterDemo.DAL\obj\Debug\net6.0\ref\PetShelterDemo.DAL.dll
